@@ -1,12 +1,12 @@
-# Hi, I'm Sharath 👋
+# Hi, I'm Sharath 
 
-🎓 MSc Data Science Student  
-📊 Interested in Data Analysis & Visualization  
-📱 Built a Flutter Expense Tracker App (Personal Project)  
+MSc Data Science Student  
+Interested in Data Analysis & Visualization  
+Built a Flutter Expense Tracker App (Personal Project)  
 
 ---
 
-## 💡 About Me
+##  About Me
 
 I am a Data Science student with a strong interest in data analysis, visualization, and machine learning.  
 I enjoy working with real-world data and building solutions that provide meaningful insights.
@@ -15,14 +15,14 @@ I developed an Expense Tracker app using Flutter as a personal project to solve 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 💰 Expense Tracker – ETBSS
+###  Expense Tracker – ETBSS
 A Flutter-based application to track expenses, set limits, and visualize spending patterns.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 - Python, R, SQL  
 - Data Analysis & EDA  
@@ -33,7 +33,7 @@ A Flutter-based application to track expenses, set limits, and visualize spendin
 
 ---
 
-## 📈 Currently Learning
+##  Currently Learning
 
 - Machine Learning  
 - Statistical Modeling  
