@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sharath 👋
 
-<!--
-**sha015/sha015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student  
+📊 Interested in Data Analysis & Visualization  
+📱 Built a Flutter Expense Tracker App (Personal Project)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I am a Data Science student with a strong interest in data analysis, visualization, and machine learning.  
+I enjoy working with real-world data and building solutions that provide meaningful insights.
+
+I developed an Expense Tracker app using Flutter as a personal project to solve a real-life problem and explore development outside my core domain.
+
+---
+
+## 🚀 Projects
+
+### 💰 Expense Tracker – ETBSS
+A Flutter-based application to track expenses, set limits, and visualize spending patterns.
+
+---
+
+## 🛠️ Skills
+
+- Python, R, SQL  
+- Data Analysis & EDA  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Power BI, Tableau  
+- Machine Learning (Basic)  
+- Git & GitHub  
+
+---
+
+## 📈 Currently Learning
+
+- Machine Learning  
+- Statistical Modeling  
+- Data Visualization Techniques  
